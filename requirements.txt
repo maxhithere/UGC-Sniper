@@ -1,2 +1,2 @@
 requests
-discord-webhook
+discord_webhook
